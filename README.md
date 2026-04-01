@@ -7,7 +7,7 @@
 <div align="center">
 
   <a href="https://github.com/IshaanKataria">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&repeat=true&width=620&height=70&lines=hey%2C+i%27m+ishaan;turning+napkin+math+into+shipped+software" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&repeat=true&width=480&height=45&lines=hey%2C+i%27m+ishaan;napkin+math+%E2%86%92+shipped+software" alt="Typing SVG" />
   </a>
 
   <br />
